@@ -6,8 +6,9 @@
 - It will ask the user to input a letter and check if the letter is in the word.
 - This will then reflect through the number of lives remaining and the letters remaining to be guessed.
 - A class called Hangman was used and several methods in that class were called to make the game follow the right logic.
+- No special libraries required. The standard Python install is enough
 
-## AiCore
+## Motivation
 
 - This is the first project of my AiCore journey.
 
